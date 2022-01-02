@@ -1,0 +1,49 @@
+6
+To Phuoc Hung
+139/ Nguyen Duc Manh
+0839262444
+00001
+6
+20 12 2021 AG 20 700 paid
+23 12 2021 Shel 14 400 paid
+18 11 2021 AG 1 365 paid
+21 11 2021 ELF 19 730 Debt
+12 10 123 AG 2 700 Debt
+12 10 2342 AG 17 1050 Debt
+Nguyen Pham Hoang Quan
+124/ Hai Ba Trung
+02874334
+00002
+4
+11 11 2021 Shel 1 400 paid
+13 11 2021 AG 1 350 paid
+12 10 2021 Shel 10 4000 Paid
+21 9 2021 Shel 20 8000 Paid
+Hong Gia Huy
+67/ Nguyễn Trung Trực
+09586386
+00003
+3
+3 11 2021 Shel 2 800 paid
+8 10 2021 AG 1 350 paid
+5 9 2021 Petro 12 385 paid
+Mach Ngoc Han
+45/ Luu Van Phuc
+09739458
+00004
+2
+20 10 2021 ELF 3 365 paid
+12 10 2021 ELF 5 1825 Debt
+Lam Khanh Hoa
+76/ Long Phu
+06234423
+00005
+2
+5 9 2021 Nemo 23 8717 Paid
+19 12 2021 Shell 20 8000 Paid
+Nguyen Trung Truc
+12/ Phan Boi Chau
+09462364
+00006
+1
+6 8 2021 AG 34 11900 Paid
